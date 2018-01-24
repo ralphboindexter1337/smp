@@ -1,0 +1,14 @@
+less intro
+less verse 1
+less verse 1-2
+less verse 1-3
+less chorus 1
+less chorus 1-2
+less chorus 1-3
+less verse 2
+less verse 2-2
+less chorus 2
+less outro
+less outro 2
+less outro 3
+less outro 4
