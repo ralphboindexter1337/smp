@@ -1,0 +1,12 @@
+pray intro
+pray verse 1
+pray verse 1-2
+pray verse 1-3
+pray chorus 1
+pray verse 2
+pray verse 2-2
+pray chorus 2
+pray bridge
+pray chorus 3
+pray outro
+pray outro 2
